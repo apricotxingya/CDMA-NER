@@ -75,7 +75,7 @@ Following the above steps with such resources, you can replicate our experiments
 For more details and experiments, please refer to our paper "Neural Adaptation Layers for Cross-domain Named Entity Recognition" (Lin and Lu, EMNLP 2018) and the supplementary material. 
 ```
 @InProceedings{bylin-18-nalner,
-  author    = {Bill Yuchen, Lin and Wei, Lu},
+  author    = {Lin, Bill Yuchen and Lu, Wei},
   title     = {Neural Adaptation Layers for Cross-domain Named Entity Recognition},
   booktitle = {Proceedings of the Conference on Empirical Methods on Natural Language Processing (EMNLP)},
   month     = {November},
